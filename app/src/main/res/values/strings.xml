@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula5</string>
+    <string name="button_sobre">Sobre</string>
+    <string name="button_configuracoes">Configurações</string>
+    <string name="button_sair">Sair</string>
+    <string name="text_nome">Nome</string>
+    <string name="text_sexo">Gênero</string>
+    <string name="radio_masculino">Masculino</string>
+    <string name="radio_feminino">Feminino</string>
+    <string name="button_aplicar">Aplicar</string>
+</resources>
